@@ -263,8 +263,16 @@ h2{
 	#menu{
 		background: #989865;
 	}
+	
+	#link a:hover{
+		color: black;
+	}
 
-
+	#link a{
+		text-decoration: none;
+		padding-top: 20px;
+		color: #4e422e;
+	}
 
 
 /* ==========================================================================
